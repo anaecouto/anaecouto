@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GameDealsApi](https://github.com/anaecouto/gamedeals-api)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-anaelisa.herokuapp.com](https://portfolio-anaelisa.herokuapp.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-anaelisa.vercel.app](https://portfolio-anaelisa.vercel.app)
 
 - 💬 Ask me about **docker, nodejs, nestjs, kubernetes, springboot, quarkus, java, kotlin, postgresql, mongodb, git, kafka, rabbitmq, keycloak**
 
